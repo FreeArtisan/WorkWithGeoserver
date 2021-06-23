@@ -1,0 +1,6 @@
+{
+    "java.project.referencedLibraries": [
+        "lib/**/*.jar",
+        "c:\\Users\\Данил\\OneDrive\\Рабочий стол\\WorkWithGeoserver.jar"
+    ]
+}
