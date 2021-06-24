@@ -1,4 +1,4 @@
-package test.java.deleteGroupLayers;
+package deleteGroupLayers;
 
 import org.junit.jupiter.api.Test;
 
